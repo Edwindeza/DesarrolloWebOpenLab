@@ -23,9 +23,9 @@ Indicaciones del trabajo práctico:
 
 ## El proyecto debe contener:
 + Una página web estilo biográfico
-++ Su información de contacto en tamaño 25px y una foto de uds que concideren adecuada.
-++ Una anepdota de ustedes.
-++ Una historia de cada mejor amigo <2></2>
++ Su información de contacto en tamaño 25px y una foto de uds que concideren adecuada.
++ Una anepdota de ustedes.
++ Una historia de cada mejor amigo <2></2>
 
 
 Lista de Repositorios:
