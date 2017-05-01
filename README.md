@@ -19,6 +19,14 @@ Este repositorio ha sido creado para juntar los trabajos de todos los chicos par
 
 Adicional se sube un ejemplo de una biografía para que puedan guiarse.
 
+Indicaciones del trabajo práctico:
+
+## El proyecto debe contener:
++ Una página web estilo biográfico
+++ Su información de contacto en tamaño 25px y una foto de uds que concideren adecuada.
+++ Una anepdota de ustedes.
+++ Una historia de cada mejor amigo <2></2>
+
 
 Lista de Repositorios:
 ==========
