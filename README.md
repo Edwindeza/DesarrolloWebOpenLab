@@ -1,10 +1,10 @@
 [id]:#.
-[id2]:#
+[id2]: https://github.com/Ryuunofire27/PaginaWebAnime
 [id3]:#
 [id4]:#
 [id5]:#
 [id6]:#
-[id7]:#
+[id7]: https://github.com/gloriainga/DesarrolloWebOpenlab
 [id8]:#
 [id9]:#
 [id10]:#
